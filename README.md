@@ -9,6 +9,14 @@ To get the condensed graph, run the following command:
 '''
 '''
 
+## Requirements
+Please see [environment](/environment.yaml).
+
+Run the following command to install:
+```
+conda env create -f environment.yaml
+```
+
 ## Cite 
 If you find this work to be useful, please cite our paper.
 '''
