@@ -28,8 +28,8 @@ If you find this repo to be useful, please cite our paper.
 
 ```
 @inproceedings{zhang2024Navigating,
-  title={Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching},
-  author={Yuchen Zhang and Tianle Zhang and Kai Wang and Ziyao Guo and Yuxuan Liang and Xavier Bresson and Wei Jin and Yang You},
+  title={Two Trades is not Baffled: Condense Graph via Crafting Rational Gradient Matching},
+  author={Tianle Zhang and Yuchen Zhang and Kun Wang and Kai Wang and Beining Yang and Kaipeng Zhang and Wenqi Shao and Ping Liu and Joey Tianyi Zhou and Yang You},
   journal={arXiv preprint arXiv:2402},
   year={2024}
   }
