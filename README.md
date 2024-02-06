@@ -27,7 +27,7 @@ Our code is built upon [GCond](https://github.com/ChandlerBang/GCond)
 If you find this repo to be useful, please cite our paper. 
 
 ```
-@inproceedings{zhang2024Navigating,
+@inproceedings{zhang2024Crafting,
   title={Two Trades is not Baffled: Condense Graph via Crafting Rational Gradient Matching},
   author={Tianle Zhang and Yuchen Zhang and Kun Wang and Kai Wang and Beining Yang and Kaipeng Zhang and Wenqi Shao and Ping Liu and Joey Tianyi Zhou and Yang You},
   journal={arXiv preprint arXiv:2402},
