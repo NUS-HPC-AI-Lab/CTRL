@@ -1,5 +1,5 @@
 # CTRL
-Pytorch implementation of "Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching"
+Pytorch implementation of ["Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching"](https://arxiv.org/abs/2402.04924).
 
 ![ctrl](figures/ctrl.png)
 
